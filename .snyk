@@ -37,4 +37,9 @@ patch:
         patched: '2017-09-26T06:52:11.652Z'
     - helmet > connect > finalhandler > debug:
         patched: '2017-09-26T06:52:11.652Z'
-version: v1.7.1
+  'npm:lodash:20180130':
+    - npm > cli-table2 > lodash:
+        patched: '2018-07-03T04:14:42.755Z'
+    - npm > npm-audit-report > cli-table2 > lodash:
+        patched: '2018-07-03T04:14:42.755Z'
+version: v1.12.0
